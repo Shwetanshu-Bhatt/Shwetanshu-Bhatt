@@ -1,14 +1,19 @@
 # Shwetanshu Bhatt
 
-Founder and product builder at [Sifaka Labs](https://sifakalabs.in), working across software, AI, and automation.
+**Freelance Full-Stack Developer · Dehradun, India**
 
-I work across product and engineering, with a focus on clear experiences and reliable software.
+I build web applications, backend systems, and practical AI workflows for startups and businesses. I focus on clear user experiences and dependable systems that work beyond the happy path.
 
 ## Selected work
 
-- [StudySync](https://github.com/Shwetanshu-Bhatt/StudySync) — an academic platform for study resources and real-time communication.
-- [LAHIT Animal Welfare](https://lahitanimalwelfaregroup.com) — a platform for rescue reports, adoption, volunteering, and community support across Uttarakhand.
+- [StudySync](https://github.com/Shwetanshu-Bhatt/StudySync) — academic resources and real-time communication for students, teachers, and administrators.
+- [LAHIT Animal Welfare](https://lahitanimalwelfaregroup.com) — a full-stack platform for rescue reporting, adoption, volunteer coordination, and community support across Uttarakhand.
+- [QA Engine](https://shwetanshubhatt.sifakalabs.in/#projects) — an automated technical question generation and validation system.
 
-## Elsewhere
+## Focus
 
-[Portfolio](https://ceo.sifakalabs.in)
+Full-stack web apps · Backend and APIs · PostgreSQL · AI integrations · Automation
+
+## Portfolio
+
+[Freelance portfolio](https://shwetanshubhatt.sifakalabs.in/)
